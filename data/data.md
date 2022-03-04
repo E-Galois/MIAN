@@ -1,1 +1,1 @@
-Following DCMH [Jiang, et al, CVPR'2017] and SSAH [Li, et al, CVPR'2018], The used dataset MIRFlickr-25K is the same with theirs. The dataset is kindly provided by the authors of DCMH and can be downloaded from their homepages. 
+Following DCMH [Jiang, et al, CVPR'2017] and SSAH [Li, et al, CVPR'2018], the used dataset MIRFlickr-25K is the same with theirs. The dataset is kindly provided by the authors of DCMH and can be downloaded from their homepages. 
