@@ -16,9 +16,8 @@ We use the following datasets.
 * NUSWIDE
 
 #### Training
-The general command for training is
-* python3 DCDH_Flickr.py
-* python3 DCDH_CIFAR_10.py
+The command for training is
+* python3 Main.py
 
 #### If you find the code is useful, please cite the following references:    
 Z. Zhang, H. Luo, L. Zhu, G. Lu, H. T. Shen, Modality-Invariant Asymmetric Networks for Cross-Modal Hashing, IEEE Transactions on Knowledge and Data Engineering (TKDE), DOI: 10.1109/TKDE.2022.3144352, 2022.
