@@ -5,8 +5,8 @@
 The details can be found in the [TKDE 2022 paper](https://ieeexplore.ieee.org/document/9689994/). 
 
 #### Implementation platform: 
-* Python 3.6  
-* Pytorch 1.1
+* python 3.7  
+* pytorch 1.9.0 
 
 #### Datasets
 We also release the train/query split for the following datasets.
