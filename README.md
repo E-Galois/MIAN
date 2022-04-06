@@ -1,9 +1,29 @@
-# MIAN
-This is the code repository for paper "Modality-Invariant Asymmetric Networks for Cross-Modal Hashing".
+## Modality-Invariant Asymmetric Networks for Cross-Modal Hashing -- PyTorch Implementation
 
-## Citing MIAN
-If you consider our work useful in your research, please cite:
+### Modality-Invariant Asymmetric Networks (MIAN) 
 
+The details can be found in the [TKDE 2022 paper](https://ieeexplore.ieee.org/document/9689994/). 
+
+#### Implementation platform: 
+* Python 3.6  
+* Pytorch 1.1
+
+#### Datasets
+We also release the train/query split for the following datasets.
+
+* MIRFlickr-25k  
+* MSCOCO
+* NUSWIDE
+
+#### Training
+The general command for training is
+* python3 DCDH_Flickr.py
+* python3 DCDH_CIFAR_10.py
+
+#### If you find the code is useful, please cite the following references:    
+Z. Zhang, H. Luo, L. Zhu, G. Lu, H. T. Shen, Modality-Invariant Asymmetric Networks for Cross-Modal Hashing, IEEE Transactions on Knowledge and Data Engineering (TKDE), DOI: 10.1109/TKDE.2022.3144352, 2022.
+
+```
 @article{zhang2022modality,
   title={Modality-Invariant Asymmetric Networks for Cross-Modal Hashing},
   author={Zhang, Zheng and Luo, Haoyang and Zhu, Lei and Lu, Guangming and Shen, Heng Tao},
@@ -11,3 +31,4 @@ If you consider our work useful in your research, please cite:
   year={2022},
   publisher={IEEE}
 }
+```
