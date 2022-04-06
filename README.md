@@ -9,7 +9,7 @@ The details can be found in the [TKDE 2022 paper](https://ieeexplore.ieee.org/do
 * pytorch 1.9.0 
 
 #### Datasets
-We also release the train/query split for the following datasets.
+We use the following datasets.
 
 * MIRFlickr-25k  
 * MSCOCO
