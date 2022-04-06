@@ -7,6 +7,7 @@ The details can be found in the [TKDE 2022 paper](https://ieeexplore.ieee.org/do
 #### Implementation platform: 
 * python 3.7  
 * pytorch 1.9.0 
+* See requirements.txt for other package requirements.
 
 #### Datasets
 We use the following datasets.
